@@ -3,6 +3,15 @@
 ## Description
 This Solidity smart contract implements the Degen Token (DGN), an ERC-20 compliant token with additional functionalities for minting, burning, transferring, and redeeming tokens for specific items. The contract also inherits functionalities from OpenZeppelin's ERC20, Ownable, and ERC20Burnable contracts.
 
+## Deployment Address
+  0x50385d3fCe37B829ed0872a827d0df5BDE5B7ad7
+
+## Snapshots
+![Screenshot from 2024-03-26 23-33-01](https://github.com/Dannyswiss1/Metacrafters-Degen-Token/assets/137540755/68434b32-8cb2-4fe6-be9e-4a2e2870950a)
+
+![Screenshot from 2024-03-26 23-33-22](https://github.com/Dannyswiss1/Metacrafters-Degen-Token/assets/137540755/31d30430-7d53-4535-ad83-9cd334b136ab)
+
+
 ## Contract Details
 - **Name:** Degen Token
 - **Symbol:** DGN
